@@ -27,3 +27,8 @@ function draw()
     fill(95, 168, 252);
     stroke(95, 168, 252);
 }
+
+function takeSnapshot()
+{
+    save('student_name.png');
+}
