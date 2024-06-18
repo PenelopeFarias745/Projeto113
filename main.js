@@ -30,5 +30,5 @@ function draw()
 
 function takeSnapshot()
 {
-    save('student_name.png');
+    save(student_photo.png);
 }
